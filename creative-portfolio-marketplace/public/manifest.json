@@ -1,0 +1,16 @@
+{
+  "short_name": "Talanta Hub",
+  "name": "Talanta Hub - Where Talent Meets Opportunity",
+  "icons": [
+    {
+      "src": "https://ppncmiuqtqtlemhkkzrk.supabase.co/storage/v1/object/public/ulpoaded%20images/talanta%20hub%20logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#030712",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait"
+}
